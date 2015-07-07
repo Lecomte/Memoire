@@ -1,0 +1,48 @@
+Mail:nneveu@gmail.com
+
+Plan
+
+Création d'un environnement virtuel via un flux sonore
+
+Introduction
+
+I.Element de Sound Design
+	A. Qu'est ce que le sound design
+	B. Technique d'analyse du flux sonore
+	
+II.Element de Level Design
+	A. Qu'est ce que le Level design
+	B. Element d'analyse du Level Design
+	
+III. Du sound Design au Level Design
+	A. Définition/Applications des rêgles
+	B. Résultat attendu
+	
+Conclusion
+
+Contact Cyanide pour interview
+Voir avec Monsieur vidal et Madame Archer si contact possible
+Voir avec Monsieur Lioret/Vezien pour contact CNRS
+Contact Ubisoft pour interview Mail (contact perso)
+
+
+I. Présentation de l'existant
+	A. Sound Design / Qu'est ce que le son / Technique d'analyse existante
+	B. Level Design / Qu'est ce qu'un environnement virtual / 
+	C. Lien existant entre les deux
+	
+II. En quoi les sound design peut il influencer le level design
+	A. Mode de fonctionnement
+	B. Possibilité d'application du mode de fonctionnement
+	C. Technique de réalisation
+	
+III. Application dans un environnement commercial 
+	(qui ça peut interresser, quel public visé, intégration dans un moteur, comment le réaliser ...)
+	
+Manque critique : temps de developpement, gameplay modification monde pnj change cohérence, liberté
+Plus spécialiser pour les interview qu'est ce qu'on entend par environnement virtuel (partie de rien ou qui existe déjà) 
+Quel type de son (musique, ponctuel etc...)
+voir coté eclairage pour la prise en compte du son 
+son devient seed
+
+Pour la prochaine fois : plan définitif
