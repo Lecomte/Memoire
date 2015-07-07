@@ -1,0 +1,18 @@
+Problématique : Comment développer un environnement virtuel en fonction de l'analyse du flux sonore ?
+
+
+
+Axes de réflection :
+
+Quelles sont les différentes techniques d'analyse musicale ?
+
+Dans quelle mesure pouvons-nous de-sérialiser les données musicales pour créer / modifier les informations d'un environnement ?
+
+Quelles sont les limites d'un terrain évolutif ?
+
+En fonction des limites établies, dans quelle mesure devrions-nous permettre, de façons optionnelles ou obligatoires, la modification par l'utilisateur ?
+
+
+
+Explication : L'objectif serait de proposer un outil permettant de lié des techniques d'analyse du flux sonore pour les liés avec des techniques de création de Level.
+Par exemple on pourrait lié l'analyse du tempo d'une musique à la hauteur du terrain.
