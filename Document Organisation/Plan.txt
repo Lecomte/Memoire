@@ -1,0 +1,12 @@
+I. Présentation de l'existant
+	A. Sound Design / Qu'est ce que le son / Technique d'analyse existante
+	B. Level Design / Qu'est ce qu'un environnement virtual / 
+	C. Lien existant entre les deux
+	
+II. En quoi les sound design peut il influencer le level design
+	A. Mode de fonctionnement
+	B. Possibilité d'application du mode de fonctionnement
+	C. Technique de réalisation
+	
+III. Application dans un environnement commercial 
+	(qui ça peut interresser, quel public visé, intégration dans un moteur, comment le réaliser ...)

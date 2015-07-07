@@ -1,0 +1,5 @@
+Manque critique : temps de developpement, gameplay modification monde pnj change cohérence, liberté
+Plus spécialiser pour les interview qu'est ce qu'on entend par environnement virtuel (partie de rien ou qui existe déjà) 
+Quel type de son (musique, ponctuel etc...)
+voir coté eclairage pour la prise en compte du son 
+son devient seed
