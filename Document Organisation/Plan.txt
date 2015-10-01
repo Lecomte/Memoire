@@ -1,12 +1,48 @@
-I. Présentation de l'existant
-	A. Sound Design / Qu'est ce que le son / Technique d'analyse existante
-	B. Level Design / Qu'est ce qu'un environnement virtual / 
+Introduction (1 pages)
+
+I. Présentation de l'existant (10 à 15 pages)
+
+	A. Sound Design
+		- Qu'est ce que le son
+		- Technique d'analyse existante
+
+	B. Level Design
+		- Qu'est ce qu'un environnement virtual
+
 	C. Lien existant entre les deux
 	
-II. En quoi les sound design peut il influencer le level design
+
+II. En quoi les sound design peut il influencer le level design (25 à 30 pages)
+
 	A. Mode de fonctionnement
+		- Rapprochement aux différent Art (théatre, opéra, cinéma)
+		- Code cinématographique (musique vs. scène = impacte émotionnel)
+
 	B. Possibilité d'application du mode de fonctionnement
-	C. Technique de réalisation
+
+	C. Technique de réalisation / Algorithme
+		- La phase pré-analytique :
+			* prélèvement de l’échantillon fréquenciel et son identification (harmonique, rythmique, mélodieux)
+			* recueil des éléments "mélodique" et allure pertinents (tempo),
+			* transport et conservation de l'échantillon jusqu'au "laboratoire" destinés à l'exécution d'un travail.
+		- La phase analytique :
+			* processus technique permettant l'obtention d'un résultat d'analyse.
+		- La phase post-analytique :
+			* communication appropriée du résultat a l'utilisateur
+			* interprétation contextuelle du résultat
+			* validation
+
+
+III. Application dans un environnement commercial (5 à 10 pages)
+
+	A. Cible possible
+		qui cela peut interresser, quel public visé
+
+	B. Réalisation possible
+		Etude techniquement (langage de programation, librairy, ...)
+		Intégration dans un moteur
+
+
+Conclusion (1 pages)
+	 sujet + ouvertur
 	
-III. Application dans un environnement commercial 
-	(qui ça peut interresser, quel public visé, intégration dans un moteur, comment le réaliser ...)
