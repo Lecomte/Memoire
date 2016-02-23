@@ -1,0 +1,40 @@
+Roland Jouvent insiste beaucoup sur la continuité qui existe entre faire une action et seulement l'imaginer. L'IRM montre que les mêmes régions sont activées : les aires prémotrices et plus ou moins à l'identique le cortex moteur. Imaginer de prendre un bain chaud active la mémoire de nos perceptions et donc le système limbique comme si nous prenions ce bain effectivement. Plus la simulation sera précise et plus l'illusion perceptive du corps sera grande, jusqu'à augmenter le rythme cardiaque, la réactivité électrodermale et produire du désir.
+
+Pour simplifier et souligner l'importance de cette découverte, on peut dire que l'imagination n'est pas une faculté abstraite de l'esprit, mais une une activité particulière du corps, nécessaire et naturelle. Elle est adaptative. A noter que l'excès de simulation peut entraver le passage à l'action, qui implique effort, résistance, douleur.
+
+Cette capacité de simulation peut être déclenché par le spectacle d'une action chez un congénère. Observer un individu active nos neurones miroirs dans le cortex moteur et prémoteur, comme si nous nous imaginions la faire. C'est valable pour nos émotions : voir une expression de dégoût sur le visage d'autrui provoque le sentiment aussi bien que lorsque nous éprouvons nous-mêmes du dégoût.
+
+Or un bébé, quinze minutes après sa naissance est capable d'imiter une expression faciale. Cette capacité précoce va lui permettre de décoder les expressions dans son environnement. Il les simule, il les ressent, il finira par comprendre leur intentionnalité et les produire à son tour. Il est commun d'observer des pleurs en chaine, sans raison, dans un groupe d'enfants, quand un seul a été blessé.
+
+
+  a) Le système d'alerte
+  
+Nous pouvons tout d'abord comprendre (notamment au travers de la célèbre "pyramide de Maslow") que le cerveau fonctionne par priorité. Ca première des piorité est bien endendu de protéger l'harmonie du fonctionnement de l'organisme sans tenir compte de tout les éléments et toutes les contraintes qui lui sont extérieur, nous nommons cela l'homéostasie.
+Le cerveau use une petites partie (le tronc cérébral) afin de prémunir des sensations primaires tels que la soif et la faim et ainsi faire évoluer l'organisme vers une réaction adéquat.
+Lorsque le cerveau (le thalamus sensoriel) perçoit une douleur ou un danger il cour-circuit ses procédure vers l'amygdale, qui met le corps en état d'alerte (accélération du rythme cardiaque), voire déclanche un réflexe inné ou acquis. L'amygdale dispose de ses propres souvenirs implicites, avec des estimation catégorique : positives, négatives. Cela permet d'avoir des réponses motrices acrus : moins de 200 ms. Mais le thalamus envoie également des stimuli vers le cortex pour y être traités de manière plus "réfléchie" usan d'une mémoire explicite cette fois ci. Cela permet de discerner l'environnement et les objets puis de les conceptualisers avant de les contextualisers.
+
+Ce système dépend intégralement du circuit de la punition (ou PVS) et aboutit à la sécrétion d'adrénaline et glucocorticoïdes.
+
+  b) Le système de récompense
+
+Ce système est bien difficile à comprendre tant il déppend de différente partie du cerveau. Lorsque le cortex décele un jouissance envisageable (nous ne somme donc plus dans une réaction primaire), de la dopamine est dégagé afin de déclancher certaine des réponses : végétatives, cognitive et la sensation de plaisir.
+Ce système permet de mémoriser des situations plaisantes pour les rechercher à nouveau.
+
+  c) Système d'inhibition de l'action.
+
+Henri Laborit a mis au jour un troisième système dans les années 60. Si le cortex préfrontal a appris précédemment qu'une action est vaine, il va figer l'organisme. Cette troisième réaction, tente d'éviter par exemple l'agression. Lorsque le système d'inhibition de l'action est activé de manière répétée, il entraine l'hypertension. Par extention empirique cela provoque la destruction du système immunitaire, des troubles de l'humeur, de la dépression et pour finir du suicide.
+
+  
+  TODO : La connaissance de ces trois systèmes ouvre certaine possibilité tel que ...
+  
+
+Source :
+	- Résulta des recherches de Paul J. Whalen et ses collaborateurs, en 1998
+	- Résulta des recherches de Henri Laborit dans les années 60 et retranscrit dans le livre : "L'INHIBITION DE L'ACTION. Biologie comportementale et physio-pathologie, 2ème édition" publiée en 1985.
+	- Livre par Ahmed Channouf : "Les émotions: une mémoire individuelle et collective"
+	- Livre par Roland Jouvent : "Le Cerveau magicien : De la réalité au plaisir psychique"
+Index : 
+	-	glucocorticoïdes : augmenter les ressources énergétiques
+	-	réponse végétative : 
+	-	réponse cognitive : l'attention est stimulée
+	-	neurones miroirs :
