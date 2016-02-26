@@ -1,117 +1,15 @@
-Roland Jouvent, professeur en neuropsychologie, insiste beaucoup sur la cohésion qui existe entre effectuer une action et seulement l'imaginer. En effet, à la direction du "Centre émotion" du CNRS à la Salpêtrière, il a pu mettre en avant, au travers d'IRM, que les régions du cerveau activées sont les mêmes : les aires prémotrices et plus ou moins à l'identique le cortex moteur. Imaginez-vous prendre une douche chaud déclenchent les souvenirs de nos sens, ainsi le système limbique réagi de la même manière que lorsque nous prenions réellement cette douche. Plus la simulation sera précise, plus l'imagination perceptive du corps sera importante. À noter que l'excès de simulation peut entraver le passage à l'action, qui implique effort, résistance, douleur.
+﻿
+2.	Etude de l'individu
 
-Pour simplifier, nous pouvons retenir que l'imagination n'est pas une aptitude abstraite de l'esprit, mais une action spécifique de notre organisme, non négligeable et innée.
+Nous avons pu voir tout au long du chapitre deux comment nous envisagions un univers dynamique et évolutif en fonction des flux sonores. Cependant nous avons également pu voir dans le premier chapitre que les émotions ressenties au travers de ce flux sonore, étaient très subjectives. Ainsi nous devons être en capacité de mesurer l'intensité des différentes émotions. Pour cela nous proposons plusieurs manières de procéder afin d’obtenir des informations rétroactives durant l’expérience : explicite et implicite.
 
-En effet, cette aptitude à pouvoir simuler peut-être provoqué par la visualisation d'actions d'autrui : regarder un congénère active nos neurones miroirs dans le cortex moteur et prémoteur. Ils permettent l'apprentissage par imitation. Ceci est également vrai pour nos émotions : voir une expression sur la figure d'un semblable provoque les sentiments aussi bien que lorsque nous le percevons directement nous-mêmes.
-
-  a) Le système d'alerte
-  
-Nous pouvons tout d'abord comprendre (notamment au travers de la célèbre "pyramide de Maslow") que le cerveau fonctionne par priorité. Sa première des priorités est bien entendue de protéger l'harmonie du fonctionnement de l'organisme sans tenir compte de tous les éléments et toutes les contraintes qui lui sont extérieurs, nous nommons cela l'homéostasie.
-Le cerveau use une petite partie (le tronc cérébral) afin de prémunir des sensations primaires telles que la soif et la faim, et ainsi faire évoluer l'organisme vers une réaction adéquate.
-Lorsque le cerveau (le thalamus sensoriel) perçoit une douleur ou un danger il court-circuit ses procédures vers l'amygdale, qui met le corps en état d'alerte (accélération du rythme cardiaque), voire déclenche un réflexe inné ou acquis. L'amygdale dispose de ses propres souvenirs implicites, avec des estimations catégoriques : positives, négatives. Cela permet d'avoir des réponses motrices accrues : moins de 200 ms. Mais le thalamus envoie également des signaux stimulant vers le cortex pour y être traités de manière plus "réfléchie" usant d'une mémoire explicite cette fois-ci. Cela permet de discerner l'environnement et les objets puis de les conceptualisers avant de les contextualisers.
-
-Ce système dépend intégralement du circuit de la punition (ou PVS) et aboutit à la sécrétion d'adrénaline et glucocorticoïdes.
-
-  b) Le système de récompense
-
-Ce système est bien difficile à comprendre tant il dépend de différentes parties du cerveau. Lorsque le cortex décèle une jouissance envisageable (nous ne sommes donc plus dans une réaction primaire), de la dopamine est dégagé afin de déclencher certaine des réponses : végétatives, cognitive et la sensation de plaisir.
-Ce système permet de mémoriser des situations plaisantes pour les rechercher à nouveau.
-
-  c) Système d'inhibition de l'action.
-
-Henri Laborit a mis au jour un troisième système dans les années 60. Si le cortex préfrontal a appris précédemment qu'une action est vaine, il va figer l'organisme. Cette troisième réaction, tente d'éviter par exemple l'agression. Lorsque le système d'inhibition de l'action est activé de manière répétée, il entraîne l'hypertension. Par extension empirique cela provoque la destruction du système immunitaire, des troubles de l'humeur, de la dépression et pour finir du suicide.
-
-  
-L’intérêt de ses recherches et la connaissance de ces trois systèmes permettent de mieux maîtriser certaines émotions que nous souhaiterions éveiller chez l'utilisateur. Ainsi nous pourrions par exemple faire appel à certaines émotions en choisissant de provoquer celle-ci par mimétisme, ou bien par rappel d'un moment vécu. Un autre cas qui pourrait être employé est l'apparition d'image subliminale pour ainsi travailler sur le système d’alerte et exciter l'amygdale. Les actions possibles sont donc multiples.
-  
-
-Source :
-	- Résulta des recherches de Paul J. Whalen et ses collaborateurs, en 1998
-	- Résulta des recherches de Henri Laborit dans les années 60 et retranscrit dans le livre : "L'INHIBITION DE L'ACTION. Biologie comportementale et physio-pathologie, 2ème édition" publiée en 1985.
-	- Livre par Ahmed Channouf : "Les émotions: une mémoire individuelle et collective"
-	- Livre par Roland Jouvent : "Le Cerveau magicien : De la réalité au plaisir psychique"
-	- Vidéo youtube de Bruce Benamran sur la chaine e-penser, Ep.21 : "Pourquoi bâiller est contagieux et l'origine des civilisations"
-		|=> + Source proposé.
-Index : 
-	- glucocorticoïdes : Permet d'augmenter les ressources énergétiques apporter au métabolisme.
-	- réponse végétative : 
-	- réponse cognitive : l'attention est stimulée
-	- neurones miroirs : Catégorie de neurones du cerveau qui présentent une activité aussi bien lorsqu'un individu exécute une action que lorsqu'il observe un autre individu exécuter la même action, ou même lorsqu'il imagine une telle action, d'où le terme miroir.
-
-______________________________________________________________________________________________________________________________________________________________	
-	
-TODO : My paper pour provoquer les reflexes.
-
-______________________________________________________________________________________________________________________________________________________________
-
-II. A. 5. Gestions des transitions musical
-
-Afin de simplifier la génération, nous ne proposerons pas de solution de génération basée sur les transitions musicales. Celles-ci se baseront directement entre les différentes zones mitoyennes établies. Nous estimons qu'il ne serait pas ou peu représentatif d'une émotion puisque la résultante de cette transition musicale serait établie de manière très aléatoire selon les musiques, la technique et le moment de la transition.
-Cependant, la transition aussi bien visuel que musical est importantes pour ne pas sortir l'utilisateur de son imertion et provoquer un changement d'humeur non prévue. C'est pourquoi nous avons cherché un minimum de technique de transition automatisé entre deux musiques.
-
-	
-	a. Etude de l'harmonique
-	
-Dans un premier temps, nous nous devons de déterminer quelles musiques sont les plus ammèmes à être utilisé. Pour cela nous utilisons le principe de la roue de Camelot. Pour cela nous devons déterminer l'harmonique des morceaux d'un set de musique. Nous pouvons ensuite les triers par harmonique. Enfin, selon quelque principe, regle de mixage, nous pouvons tisser des liens entres les musiques et établire une RoadMap.
-
-Il existe 6 principes de mixage :
- - Transition par même clé d'harmonique : Cette première technique utilisée aura pour effet de lasser après quelque minutes, car le mixe n'auras pas d'évolution de hauteur et parraitra plat.
- - Transition par quinte : Cette seconde technique permet de choisir un morceau de la clé harmonique supérieure de la même tonalité. Comme dans l'exemple, nous passons d'un La Bémol Majeur à un Mi Bémol Majeur. La transition aura pour effet d'une légère monter en puissance.
- - Transition par quarte : Principe inverse à celle de la quinte : cette technique permet de choisir un morceau de la clé harmonique inferieur de la même tonalité. Comme dans l'exemple, nous passons d'un Si Bémol Majeur à un Mi Bémol Majeur. La transition aura pour effet semblable à une diminution de la pression.
- - Transition par tonalité : Cette quatrieme pratique à pour principe de réaliser un changement de tonalité durant la transition. Comme dans l'exemple, nous passons d'un Ré Mineur à un Fa Majeur. La transition vers une tonalité Mineur permet d'apporter plus de "profondeur" tandis que la transition vers une tonalité Majeur donnera une impression "d'ouverture".
- - Transition par note superieur : Cela consiste a monter l'harmonique d'une note supérieur sans changement de tonalité lors de la transition. Autrement dit, comme l'indique l'exemple, nous monton d'un Fa Majeur vers un Fa Dièse Majeur qui équivaut à la note de superieur la plus proche. Cela provoque un léger coup de boost dans le mixe.
- - Transition par ton superieur : Cette dernier technique de transition consiste à monter, lors de la transition, l'harmonique  sur le ton supérieur. Ainsi comme le montre l'exemple, une clé harmonique Fa majeur deviendra un Sol Majeur. Cela est un second moyen (avec la transition par note superieur) de provoquer coup de boost dans le mixe.
+a.	Etude explicite
  
-Ces regles établis nous permet desormet d'avoir un choix cohérant de musique. Ces differentes transitions permettent également d'appuyer certain ressentie recherché chez l'utilisateur. Mais cela ne fait pas tout, en effet les transitions peuvent sonner correctement à nos oreilles et pourtant nous paraitre totalement à contre temps ou sur un faut rythme...
-	
-	b. Annalyse du rythme
-	
-Dans un second temps, nous nous devons de déterminer tempo des musiques afin de pouvoir caler ces dernières, les une sur les autres lors d'une transition. Le but est de réussir à déterminer une valeur pour le tempo des musiques sous une même unité de mesure. Nous avons choisi de déterminer le BPM (beats par minute). Une fois cette méthode établie et donc cette valeur obtenue, il serat relativement aisé de déterminer s'il faut ralentire ou accélérer leur vitesse de lécture pour les ajouters sur le même tempo.
+Parmi les études explicitées, nous avons pensé à mettre en place deux outils.
+Dans un premier temps, l'idée serait de mettre en place un test sur la psychologie de l'utilisateur avant même que l’expérience ne commence. Avec un test tel que le "Myers Briggs type indicator" (ou MBTI), qui est le plus utilisé au monde, cela permettrait de catégoriser les utilisateurs. Ainsi en recoupant les informations recueillent sur une personne appartenant à une "cast X", nous serions en mesure d'avoir des indicateurs déjà prédéfinie, conceptualisant ainsi une source d'information de base pour un nouvel utilisateur appartenant à cette même "cast X". Bien entendu, cette base ne serait qu'un moyen de prédéfinir les options de configuration par défaut avant de pouvoir les adapter à l'utilisateur.
+Dans un second temps, en partant d'une config par défaut, nous pourrions questionner l'utilisateur, au moyen d'une pop-up par exemple, sur son ressenti pendant l’expérience. Ainsi nous aurions à coup sûr une correction de l'estimation correcte. Cependant, cette seconde méthode est à utilisé avec délicatesse et parcimonie car elle a pour effet de couper l'utilisateur de l’expérience qu'il vit. Ainsi cela peut empêcher la pleine immersion de l'utilisateur.
 
-Plusieurs méthodes existent cependant une semble plus pertinante tant elle est efficace et robuste : l'Intercorrélation avec un peigne de Dirac. Cette méthode présente néanmoins un defaut incontournable, elle est très couteuse et ne pourrat donc pas être appliqué en temps réel. Nous proposons alors une autre méthode : détection des crêtes.
+b.	Etude implicite
 
-Le principe est d'appliquer un filtre passe-bas pour écarter les impurters et minimiser les variations.
-
-TODO : Calcule ?
-
-En suite on suréchantillone le signale afin de diminuer le nombre de donné à annalysé et ainsi rendre le temps de calcule plus efficace.
-
-TODO : Calcule ?
-
-Par la suite on déterminer un signal "alpiniste" w tel que :
-w[1] =	x[1]
-w[k] =	x[k]			si x[k] ≥ w[k − 1] − ε
-		w[k − 1] − ε	sinon (dcroissance linaire)
-		
-Avec ε une constante de décroissance.
-
-Nous obtenons alors un signal w qui, pour chaque pente croissante, nous permet de déterminer que nous somme sur un beats. Enfin il nous reste plus qu'à diviser le nombre total de beats (N) par la duré du morceau en seconde (T) pour obtenir le tempo tel que :
-BPM = 60 * N/T
-
-	c. Application de la transition
-	
-Maintenant que nous avons un moyen de déterminer le BPM d'un morceau, nous pouvons appliquer une transition correcte basé sur trois principe : l'accord du rythmes des musiques (également appelé time streching), la superposition qui consiste à calé les BPM d'une musique sur l'autre et enfin le fondu qui revient simplement basculé le volume sonore de la piste en cours de lécture vers la suivante.
-
-TODO ADD INFO COMPLEMENTAIRE
-
-
-Source :
-	- Mémoire par Eric D. Scheirer au MIT en 2000 : "Music-Listening Systems"
-	- Document par Judith C. Brown en 2003 : "Determination of the meter of musical scores by autocorrelation"
-	- Document par Frédéric Patin en 2003 : "Beat Detection Algorithms"
-	- Abstract pour l'International Conference On Music Information Retrieval (ISMIR) par Masoud Alghoniemy and Ahmed H. Tewfik :
-		"Rhythm and periodicity detection in polyphonic music"
-	- Abstract pour l'ISMIR par Martin F. McKinney et Dirk Moelants en 2004 : "Extracting the perceptual tempo from music"
-	- Livre par Wolfgang Hess en 1983 à Springer-Verlag Berlin : "Pitch Determination of Speech Signals : Algorithms and Devices"
-
-Index :
- - Tonalité : C'est un ton appartenant au mode majeur ou au mode mineur.
-
-
-
-
-
-
-
-
-
+Enfin nous pouvons envisager une étude implicite, basé sur la compréhension des réactions comportementales de l'utilisateur vis-à-vis du monde dans lequel il se trouve. Cette méthode permettrait d'obtenir des informations plus flou que celles que nous pourrions obtenir par une méthode dite explicite. Cependant elle a le net avantage d'être totalement invisible pour l'utilisateur. Nous n'avons donc aucun risque de perte d'immersion.
+Comme exemple d'implémentation nous pourrions imaginer l'utilisateur écoutant une musique avec autour de lui un certain nombre d’environnements différent se générant tout autour de lui. Nous pouvons enregistrer que selon le thème de la musique courante, l'utilisateur s'est dirigé plus vers tel ou tel environnement, plutôt qu'un autre. Exemple : faire demi-tour et retourné dans le désert aride ou bien avancé dans une forêt humide.
